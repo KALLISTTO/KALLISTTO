@@ -1,10 +1,10 @@
 <div align="center">
 
-# KALLISTTO
+# KALLISTO
 
-### Cybersecurity · Detection Engineering · Automation · Homelab
+### Cybersecurity · AI Agents · Quant Systems · Automation · Infrastructure
 
-Building practical security, automation and self-hosted systems.
+Building, experimenting and learning across security, intelligent systems and self-hosted infrastructure.
 
 [![GitHub](https://img.shields.io/badge/GitHub-KALLISTTO-181717?style=for-the-badge&logo=github)](https://github.com/KALLISTTO)
 
@@ -12,41 +12,46 @@ Building practical security, automation and self-hosted systems.
 
 ---
 
-## `01 / About`
+## `01 / Explore`
 
-I'm Thomas, a cybersecurity consultant focused on **detection engineering, incident response, SIEM/SOAR automation and purple teaming**.
-
-I also build and self-host infrastructure around **Proxmox, Docker, automation, AI tooling and homelab services**.
+I like building systems at the intersection of **cybersecurity, AI, automation, infrastructure and quantitative research**.
 
 ```text
-> detect
-> investigate
+> secure
 > automate
+> orchestrate
+> experiment
 > build
 ```
 
 ---
 
-## `02 / What I work on`
+## `02 / Areas`
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🛡️ Cybersecurity
-Detection engineering, CSIRT, SIEM/SOAR, EDR, MITRE ATT&CK and incident response.
+Detection, incident response, SIEM/SOAR, DFIR, threat intelligence and security engineering.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### ⚙️ Automation
-Security workflows, operational automation, AI-assisted tooling and reproducible systems.
+### 🤖 AI Agents
+Local models, tool use, agent orchestration, automation and autonomous workflows.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### 🖥️ Homelab
-Proxmox, containers, self-hosted apps, networking and local infrastructure experiments.
+### 📈 Quant
+Market data, strategy research, backtesting, execution tooling and systematic experimentation.
+
+</td>
+<td width="25%" valign="top">
+
+### 🧱 Infrastructure
+Containers, orchestration, networking, virtualization, self-hosting and observability.
 
 </td>
 </tr>
@@ -54,31 +59,37 @@ Proxmox, containers, self-hosted apps, networking and local infrastructure exper
 
 ---
 
-## `03 / Stack`
+## `03 / Toolbox`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,docker,git,github,vscode,nginx,cloudflare&perline=10" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,docker,kubernetes,git,github,vscode,nginx,cloudflare&perline=11" alt="Core stack" />
+
+<br/><br/>
+
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" alt="Ollama" height="46" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/thehive.svg" alt="TheHive" height="46" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" alt="Proxmox" height="46" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" alt="n8n" height="46" />
+
+<br/><br/>
+
+`Ollama` · `TheHive` · `Kubernetes` · `Docker` · `Proxmox` · `n8n` · `Linux` · `Python`
 
 </div>
 
-**Security & operations**
-
-`SIEM` · `SOAR` · `EDR` · `DFIR` · `CSIRT` · `Detection Engineering` · `Purple Team` · `MITRE ATT&CK` · `Threat Intelligence`
-
-**Infrastructure & self-hosting**
-
-`Proxmox` · `Docker` · `Linux` · `Home Assistant` · `WireGuard` · `Pi-hole` · `n8n` · `Cloudflare Tunnels`
-
 ---
 
-## `04 / Featured build`
+## `04 / Building`
 
-### ⚡ Career Operations
-
-An AI-assisted career operations platform built to centralize job discovery, ranking, evaluation, application workflows and career intelligence.
-
-> Private project — actively developed.
+- security automation and detection tooling
+- AI agents and local-model workflows
+- quantitative research and trading infrastructure
+- self-hosted services, homelabs and distributed systems
+- experiments that connect all of the above
 
 ---
 
@@ -112,7 +123,7 @@ An AI-assisted career operations platform built to centralize job discovery, ran
 <div align="center">
 
 ```text
-KALLISTTO // CYBER · AUTOMATION · BUILD
+KALLISTO // SECURITY · AI · QUANT · AUTOMATION · BUILD
 ```
 
 </div>
