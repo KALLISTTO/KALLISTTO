@@ -12,17 +12,17 @@ Building, experimenting and learning across security, intelligent systems and se
 
 ---
 
-## `01 / Explore`
+## `01 / Playground`
 
-I like building systems at the intersection of **cybersecurity, AI, automation, infrastructure and quantitative research**.
+<div align="center">
 
-```text
-> secure
-> automate
-> orchestrate
-> experiment
-> build
-```
+<kbd>🛡️ SECURITY</kbd>&nbsp;&nbsp; <kbd>🤖 AGENTIC AI</kbd>&nbsp;&nbsp; <kbd>📈 QUANT</kbd>&nbsp;&nbsp; <kbd>🧱 INFRA</kbd>&nbsp;&nbsp; <kbd>⚙️ AUTOMATION</kbd>
+
+<br/>
+
+<sub>Exploring systems that detect, reason, automate, orchestrate and execute.</sub>
+
+</div>
 
 ---
 
@@ -30,28 +30,28 @@ I like building systems at the intersection of **cybersecurity, AI, automation, 
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 🛡️ Cybersecurity
-Detection, incident response, SIEM/SOAR, DFIR, threat intelligence and security engineering.
+Detection · Incident Response · SIEM/SOAR · DFIR · Threat Intelligence
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 🤖 AI Agents
-Local models, tool use, agent orchestration, automation and autonomous workflows.
+Local Models · Tool Use · Orchestration · Autonomous Workflows
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 📈 Quant
-Market data, strategy research, backtesting, execution tooling and systematic experimentation.
+Market Data · Research · Backtesting · Execution Systems
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 🧱 Infrastructure
-Containers, orchestration, networking, virtualization, self-hosting and observability.
+Containers · Kubernetes · Virtualization · Networking · Self-hosting
 
 </td>
 </tr>
@@ -63,23 +63,13 @@ Containers, orchestration, networking, virtualization, self-hosting and observab
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,docker,kubernetes,git,github,vscode,nginx,cloudflare&perline=11" alt="Core stack" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,powershell,bash,linux,docker,kubernetes,git,github&perline=8" alt="Core toolbox" />
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" alt="Kubernetes" height="46" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" alt="Ollama" height="46" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/thehive.svg" alt="TheHive" height="46" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" alt="Proxmox" height="46" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" alt="n8n" height="46" />
-
-<br/><br/>
-
-`Kubernetes` · `Ollama` · `TheHive` · `Docker` · `Proxmox` · `n8n` · `Linux` · `Python`
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,nginx,cloudflare,ollama,proxmox,n8n&perline=6" alt="Extended toolbox" />
+&nbsp;
+<img src="./assets/thehive.svg" alt="TheHive" width="48" height="48" title="TheHive" />
 
 </div>
 
@@ -87,11 +77,11 @@ Containers, orchestration, networking, virtualization, self-hosting and observab
 
 ## `04 / Building`
 
-- security automation and detection tooling
-- AI agents and local-model workflows
-- quantitative research and trading infrastructure
-- self-hosted services, homelabs and distributed systems
-- experiments that connect all of the above
+<div align="center">
+
+<code>security automation</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>local AI agents</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>quant research</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>self-hosted systems</code>
+
+</div>
 
 ---
 
@@ -99,8 +89,7 @@ Containers, orchestration, networking, virtualization, self-hosting and observab
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KALLISTTO&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KALLISTTO&hide_border=true&theme=transparent" height="165" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=KALLISTTO&hide_border=true&theme=transparent" height="165" alt="GitHub streak" />
 
 </div>
 
