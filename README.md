@@ -105,8 +105,6 @@ Containers · Kubernetes · Virtualization · Networking · Self-hosting
 
 <div align="center">
 
-```text
-KALLISTO // SECURITY · AI · QUANT · AUTOMATION · BUILD
-```
+<code>KALLISTO // SECURITY · AI · QUANT · AUTOMATION · BUILD</code>
 
 </div>
