@@ -93,14 +93,6 @@ Containers · Kubernetes · Virtualization · Networking · Self-hosting
 
 </div>
 
-### 3D contribution map
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
-
-</div>
-
 ### Contribution snake
 
 <picture>
