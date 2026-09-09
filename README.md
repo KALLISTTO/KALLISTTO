@@ -67,6 +67,8 @@ Containers, orchestration, networking, virtualization, self-hosting and observab
 
 <br/><br/>
 
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" alt="Kubernetes" height="46" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" alt="Ollama" height="46" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/thehive.svg" alt="TheHive" height="46" />
@@ -77,7 +79,7 @@ Containers, orchestration, networking, virtualization, self-hosting and observab
 
 <br/><br/>
 
-`Ollama` · `TheHive` · `Kubernetes` · `Docker` · `Proxmox` · `n8n` · `Linux` · `Python`
+`Kubernetes` · `Ollama` · `TheHive` · `Docker` · `Proxmox` · `n8n` · `Linux` · `Python`
 
 </div>
 
