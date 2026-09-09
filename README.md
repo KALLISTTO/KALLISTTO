@@ -24,8 +24,6 @@ Building, experimenting and learning across security, intelligent systems and se
 
 </div>
 
----
-
 ## `02 / Areas`
 
 <table>
@@ -57,8 +55,6 @@ Containers · Kubernetes · Virtualization · Networking · Self-hosting
 </tr>
 </table>
 
----
-
 ## `03 / Toolbox`
 
 <div align="center">
@@ -73,8 +69,6 @@ Containers · Kubernetes · Virtualization · Networking · Self-hosting
 
 </div>
 
----
-
 ## `04 / Building`
 
 <div align="center">
@@ -82,8 +76,6 @@ Containers · Kubernetes · Virtualization · Networking · Self-hosting
 <code>security automation</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>local AI agents</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>quant research</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>self-hosted systems</code>
 
 </div>
-
----
 
 ## `05 / GitHub activity`
 
