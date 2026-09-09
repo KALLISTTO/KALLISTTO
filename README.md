@@ -4,7 +4,7 @@
 
 ### Cybersecurity · AI Agents · Quant Systems · Automation · Infrastructure
 
-Building, experimenting and learning across security, intelligent systems and self-hosted infrastructure.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a55e5&width=1250&lines=Building%2C+experimenting+and+learning+across+security%2C+intelligent+systems+and+self-hosted+infrastructure.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-KALLISTTO-181717?style=for-the-badge&logo=github)](https://github.com/KALLISTTO)
 
@@ -23,6 +23,8 @@ Building, experimenting and learning across security, intelligent systems and se
 <sub>Exploring systems that detect, reason, automate, orchestrate and execute.</sub>
 
 </div>
+
+---
 
 ## `02 / Areas`
 
@@ -55,6 +57,8 @@ Containers · Kubernetes · Virtualization · Networking · Self-hosting
 </tr>
 </table>
 
+---
+
 ## `03 / Toolbox`
 
 <div align="center">
@@ -69,6 +73,8 @@ Containers · Kubernetes · Virtualization · Networking · Self-hosting
 
 </div>
 
+---
+
 ## `04 / Building`
 
 <div align="center">
@@ -77,21 +83,23 @@ Containers · Kubernetes · Virtualization · Networking · Self-hosting
 
 </div>
 
+---
+
 ## `05 / GitHub activity`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=KALLISTTO&hide_border=true&theme=transparent" height="165" alt="GitHub streak" />
+![Streak](https://coolreadme.xyz/api/streak-card?user=KALLISTTO&theme=spotify)
 
 </div>
 
-### Contribution snake
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KALLISTTO/KALLISTTO/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KALLISTTO/KALLISTTO/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/KALLISTTO/KALLISTTO/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
 ---
 
